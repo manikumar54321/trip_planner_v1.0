@@ -1,0 +1,7 @@
+streamlit
+requests
+google-generativeai
+folium
+streamlit_folium
+fpdf
+geopy
